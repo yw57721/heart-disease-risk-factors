@@ -1,4 +1,4 @@
-## i2b2 task with pre-train BERT and NER
+## this project is to identify heart disease risk factor from electronic health record using BERT-CRF model
 
 ### Dependencies
 * tensorflow 1.x, (x>=4)
