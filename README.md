@@ -1,4 +1,4 @@
-## this project is to identify heart disease risk factor from electronic health record using BERT-CRF model
+## This project is to identify heart disease risk factors from electronic health records using BERT-CRF model.
 
 ### Dependencies
 * tensorflow 1.x, (x>=4)
