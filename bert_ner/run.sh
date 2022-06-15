@@ -30,5 +30,4 @@ python3 -m i2b2.predict_predict \
 --xml_path=$test_xml_path \
 --export_xml_path=$export_xml_path
 
-
 python3 -m i2b2.metrics.evaluate cr $export_xml_path $test_xml_path
