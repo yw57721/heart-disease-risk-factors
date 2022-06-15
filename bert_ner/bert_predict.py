@@ -211,7 +211,6 @@ def main(_):
     #         file_labels = []
         # update start
 
-
     # for xml_file in xml_files:
     #     tf.logging.info("Processing %s ..." % xml_file)
     #     # predict input fn
