@@ -14,7 +14,6 @@
 #   See the License for the specific language governing permissions and
 #   limitations under the License.
 #
-#
 # i2b2 2014 Evaluation Scripts
 #
 # This script is distributed as apart of the i2b2 2014 Cardiac Risk and
