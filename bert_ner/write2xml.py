@@ -81,7 +81,6 @@ def write2xml(label_list, export_xml_filename):
     et = etree.ElementTree(root)
     et.write(export_xml_filename, pretty_print=True)
 
-
 if __name__ == '__main__':
     label_list = ["MEDICATION:after_DCT:null:null:beta_blocker"]
     write2xml(label_list, "test.xml")
