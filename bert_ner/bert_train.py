@@ -71,7 +71,6 @@ def count_sentences(filepath):
 #         drop_remainder=False
 #     )
 
-
 def model_fn(features, labels, mode, params):
     input_ids = features["input_ids"]
     input_mask = features["input_mask"]
