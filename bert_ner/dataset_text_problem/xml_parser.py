@@ -15,7 +15,6 @@ tag_dict = {
     "type1": default_status
 }
 
-
 class XmlParser:
     tag_types = {"DIABETES": "time:indicator",
                  "CAD": "time:indicator",
