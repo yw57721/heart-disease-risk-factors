@@ -4,7 +4,6 @@ import six
 
 import tensorflow as tf
 
-
 class TagEncoder(object):
 
     def __init__(self, vocab_filename=None):
